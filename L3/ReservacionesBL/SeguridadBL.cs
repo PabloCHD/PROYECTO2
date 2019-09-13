@@ -17,7 +17,7 @@ namespace ReservacionesBL
 
             else
             {
-                if (Usuario == "David" && pass == "456")
+                if (Usuario == "Pablo" && pass == "456")
                 {
                     return true;
                 }
